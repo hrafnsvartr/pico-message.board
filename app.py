@@ -3,7 +3,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 # Stored message (in memory)
-latest_message = "Hello from Pico!"
+latest_message = "Buziaki Pyszczku."
 
 # -----------------------
 # Web UI (for your phone)
